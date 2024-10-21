@@ -1,0 +1,9 @@
+What is your name? : s
+Welcome s to the increasing split tester, nice to meet you!
+s, would you like to test if a number admits an increasing-split of give size? yes
+Ok, let's do it!
+What is the size of the split? 2 
+What is the number you want to test? 154168
+154168 admits an increasing split of size 2
+s, would you like to test if a number admits an increasing-split of give size? no
+PS C:\Users\MartT\Downloads\Assignment 3 attached files Oct 20, 2024 411 PM> 
